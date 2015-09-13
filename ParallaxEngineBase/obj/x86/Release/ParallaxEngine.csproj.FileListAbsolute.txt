@@ -1,0 +1,15 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\bin\x86\Release\WindowsGameLibrary1.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\bin\x86\Release\WindowsGameLibrary1.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\WindowsGameLibrary1.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\ParallaxEngine\obj\x86\Release\WindowsGameLibrary1.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\ParallaxEngine.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\x86\Release\ParallaxEngine.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.dll
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.pdb
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\bin\x86\Release\FarseerPhysicsXNA.xml

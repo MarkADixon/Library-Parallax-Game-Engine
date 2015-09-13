@@ -1,0 +1,2 @@
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Bauer\Documents\Visual Studio 2010\Projects\ParallaxEngine\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
